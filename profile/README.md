@@ -29,8 +29,6 @@ Explore our **open-source tools** and **custom-tailored solutions** built to mee
 [![Zappie](https://github-readme-stats.vercel.app/api/pin/?username=Hamster-Systems&repo=Zappie&theme=tokyonight)](https://github.com/Hamster-Systems/Zappie)
 [![HamsterFMS](https://github-readme-stats.vercel.app/api/pin/?username=Hamster-Systems&repo=HamsterFMS&theme=tokyonight)](https://github.com/Hamster-Systems/HamsterFMS)
 
-> 💡 Add more project cards here to showcase your ecosystem.
-
 ---
 
 ## 🛠️ Our Tech Stack  
@@ -51,7 +49,7 @@ Explore our **open-source tools** and **custom-tailored solutions** built to mee
 
 📧 **Email:** [CharleyQ@hamster-sys.com](mailto:CharleyQ@hamster-sys.com)  
 🌐 **Website:** [hamster-sys.com](https://hamster-sys.com)  
-💬 **Discord:** *(Add your community invite link here if available)*  
+💬 **Hammity.app:** *COMING SOON*  
 
 ---
 
