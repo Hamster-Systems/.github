@@ -27,7 +27,7 @@ Explore our **open-source tools** and **custom-tailored solutions** built to mee
 ## 🚀 Featured Projects  
 
 [![Hbm-s-Nuclear-Tech-GIT](https://github-readme-stats.vercel.app/api/pin/?username=Hamster-Systems&repo=Hbm-s-Nuclear-Tech-GIT&theme=tokyonight)](https://github.com/Hamster-Systems/Hbm-s-Nuclear-Tech-GIT)
-[![HamsterFMS](https://github-readme-stats.vercel.app/api/pin/?username=Hamster-Systems&repo=HamsterFMS&theme=tokyonight)](https://github.com/Hamster-Systems/HamsterFMS)
+[![Script Versions](https://github-readme-stats.vercel.app/api/pin/?username=Hamster-Systems&repo=Script-Version&theme=tokyonight)](https://github.com/Hamster-Systems/Script-Version)
 
 ---
 
